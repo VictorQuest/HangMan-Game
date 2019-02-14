@@ -1,0 +1,134 @@
+html {
+  margin: 100;
+  padding: 100;
+}
+
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  background: url("http://i.imgur.com/0BtRhfv.png") right bottom no-repeat, url("https://media.istockphoto.com/vectors/valentines-day-background-confetti-hearts-petals-falling-heart-shapes-vector-id1027948344") left top repeat;
+  background-size: cover;
+}
+
+.wrapperone {
+  border-top: 15px solid rgb(233, 51, 84);
+  border-radius: 100px;
+}
+
+.wrapper {
+  border-top: 15px solid rgb(233, 51, 84);
+  border-radius: 100px;
+}
+
+.bloody {
+  font-family: 'frijole', sans-serif;
+  font-size: 83px;
+  color: rgb(250, 11, 154);
+  text-shadow:
+    4px 4px 1px #300000,
+    4px 6px 1px #400000,
+    4px 8px 1px #500000,
+    4px 10px 1px #600000,
+    4px 12px 1px #700000,
+    4px 14px 1px #800000,
+    4px 16px 1px #900000,
+    4px 18px 1px #A00000,
+    4px 20px 1px #B00000,
+    4px 22px 1px #C00000,
+    4px 24px 1px #D00000,
+    4px 26px 1px #E00000,
+    4px 28px 1px #F00000,
+    4px 30px 1px #FA0000,
+    4px 32px 1px #FB0000,
+    4px 34px 1px #FC0000,
+    4px 36px 1px #FD0000,
+    4px 38px 1px #FE0000,
+    4px 40px 2px #FF0000;
+}
+
+.clinky {
+  font-family: 'frijole', sans-serif;
+  font-size: 43px;
+  color: rgb(250, 11, 154);
+  text-shadow:
+    4px 4px 1px #300000,
+    4px 6px 1px #400000,
+    4px 8px 1px #500000,
+    4px 10px 1px #600000,
+    4px 12px 1px #700000,
+    4px 14px 1px #800000,
+    4px 16px 1px #900000,
+    4px 18px 1px #A00000,
+    4px 20px 1px #B00000,
+    4px 22px 1px #C00000,
+    4px 24px 1px #D00000,
+    4px 26px 1px #E00000,
+    4px 28px 1px #F00000,
+    4px 30px 1px #FA0000,
+    4px 32px 1px #FB0000,
+    4px 34px 1px #FC0000,
+    4px 36px 1px #FD0000,
+    4px 38px 1px #FE0000,
+    4px 40px 2px #FF0000;
+}
+
+.clincky {
+  font-family: 'eater', sans-serif;
+  font-size: 27px;
+  color: rgb(246, 10, 166);
+  text-shadow:
+    4px 4px 1px #300000,
+    4px 6px 1px #400000,
+    4px 8px 1px #500000,
+    4px 10px 1px #600000,
+    4px 12px 1px #700000,
+    4px 14px 1px #800000,
+    4px 16px 1px #900000;
+}
+
+button {
+  font-family: 'eater', sans-serif;
+  font-size: 15px;
+  color: rgb(250, 164, 213);
+  background-color: rgb(247, 20, 20);
+  border: solid 1px rgb(252, 92, 179);
+  border-top: 5px solid rgb(233, 51, 84);
+  border-bottom: 5px solid rgb(233, 51, 84);
+  border-radius: 100px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 18px 10px;
+  width: 180px;
+  margin: 10px;
+  outline: none;
+}
+
+.alphabet {
+  margin: 10px auto;
+  padding: 0;
+  max-width: 500px;
+}
+
+.alphabet, li {
+  font-family: 'eater', sans-serif;
+  color: rgb(163, 7, 39);
+  text-shadow:
+    4px 4px 1px #B00000,
+    4px 6px 1px #C00000,
+    4px 8px 1px #D00000,
+    4px 10px 1px #E00000;
+  border: 1px solid rgba(244, 121, 146, 0.75);
+  font-size: 17px;
+  float: left;
+  margin: 20px;
+  background-color: rgb(238, 69, 130);
+  list-style: none;
+  width: 35px;
+  height: 30px;
+  padding-top: 10px;
+}
+.catagoryName {
+
+}
